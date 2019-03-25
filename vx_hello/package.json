@@ -1,0 +1,31 @@
+{
+  "name": "vx_hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "@vx/axis": "0.0.184",
+    "@vx/gradient": "0.0.183",
+    "@vx/grid": "0.0.184",
+    "@vx/group": "0.0.183",
+    "@vx/mock-data": "0.0.185",
+    "@vx/scale": "0.0.182",
+    "@vx/shape": "0.0.184",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}

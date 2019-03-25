@@ -2,8 +2,8 @@
 A glance at several react chart libs 
 
 # usage
-> cd ${lib_hello}
-> npm install
-> webpack
+ cd ${lib_hello}
+ npm install
+ webpack
 
 then double click index.html ...
